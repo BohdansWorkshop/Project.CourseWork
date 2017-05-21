@@ -1,0 +1,17 @@
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\bin\Debug\ProjectFrstTry.exe.config
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\bin\Debug\ProjectFrstTry.exe
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\bin\Debug\ProjectFrstTry.pdb
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.csprojResolveAssemblyReference.cache
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.MainForm.resources
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.Properties.Resources.resources
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.csproj.GenerateResource.Cache
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.exe
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.pdb
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.Registration.resources
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\bin\Debug\EntityFramework.dll
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\bin\Debug\EntityFramework.xml
+C:\Users\Helix\documents\visual studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Helix\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.AboutBox.resources
+C:\Users\Helix\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.UcEditVisitor.resources
+C:\Users\Helix\Documents\Visual Studio 2015\Projects\WindowsFormsApplication\ProjectFrstTry\obj\Debug\ProjectFrstTry.UcCreateVisitor.resources
